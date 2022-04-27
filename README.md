@@ -4,7 +4,7 @@
 
 💻 Estagiário em Desenvolvimento Web
 
-📔 Aprendendo Ruby e Ruby on Rails
+📔 Estudando Ruby, Ruby on Rails e Rspec
 
 ##
 
