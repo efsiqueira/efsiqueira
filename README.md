@@ -1,7 +1,8 @@
-# E aiii, eu sou o Eduardo! 🤙
+# puts "Hello World!" 🌎
 
-### Atualmente estudando Ruby, Rails e Rspec 📚
-
+🤙 I'm Eduardo, I'm a System Analysis and Development student
+<br/>
+📚 I'm currently studying Ruby, Rails and RSpec
 <br/>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-felipe-da-silva-siqueira/)
