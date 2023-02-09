@@ -1,8 +1,8 @@
-# puts "Hello World!" 🌎
+# Welcome 🌎!
 
-🤙 I'm Eduardo, I'm a System Analysis and Development student
+Hello! I'm Eduardo, a System Analysis and Development student
 <br/>
-📚 I'm currently studying Ruby, Rails and React
+I'm currently study mainly Ruby, Rails and React
 <br/>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-felipe-da-silva-siqueira/)
