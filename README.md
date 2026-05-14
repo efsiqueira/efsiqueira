@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Eduardo from Joinville/SC - Brazil<br><br>- 🔭 I’m working as a full-stack software developer.<br>- 📚 I'm currently learning about Node.JS and React.<br>- ⚡ In my free time I drink coffee.</p>
+<p align="left">I'm Eduardo from Joinville/SC - Brazil<br><br>- 🔭 I’m working as a full-stack software developer.<br>- 📚 I'm currently learning about AI, Node.JS and React.<br>- ⚡ In my free time I drink coffee.</p>
 
 ###
 
